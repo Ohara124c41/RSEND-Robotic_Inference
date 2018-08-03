@@ -1,2 +1,5 @@
-# RSEND-Robotic_Inference
-Robotic Inference Project
+![image](https://github.com/Ohara124c41/RSEND-Robotic_Inference/blob/master/images/write_up-1.jpg?raw=true)
+![image](https://github.com/Ohara124c41/RSEND-Robotic_Inference/blob/master/images/write_up-2.jpg?raw=true)
+![image](https://github.com/Ohara124c41/RSEND-Robotic_Inference/blob/master/images/write_up-3.jpg?raw=true)
+![image](https://github.com/Ohara124c41/RSEND-Robotic_Inference/blob/master/images/write_up-4.jpg?raw=true)
+![image](https://github.com/Ohara124c41/RSEND-Robotic_Inference/blob/master/images/write_up-5.jpg?raw=true)
