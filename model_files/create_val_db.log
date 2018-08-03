@@ -1,0 +1,10 @@
+Tensorflow support disabled.
+2018-08-03 22:48:28 [DEBUG] 161 total lines in file
+2018-08-03 22:48:28 [INFO ] 161 valid lines in file
+2018-08-03 22:48:28 [DEBUG] Category 0 has 59 images.
+2018-08-03 22:48:28 [DEBUG] Category 1 has 34 images.
+2018-08-03 22:48:28 [DEBUG] Category 2 has 33 images.
+2018-08-03 22:48:28 [DEBUG] Category 3 has 35 images.
+2018-08-03 22:48:31 [DEBUG] Processed 100/161
+2018-08-03 22:48:31 [DEBUG] 161 images loaded
+2018-08-03 22:48:31 [INFO ] 161 images written to database
